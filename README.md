@@ -3,7 +3,7 @@
 # simple-lang
 A simple language for learning more about programming languages.
 
-Posts from Stephen Diehl influeced this a lot:
+Posts from Stephen Diehl influenced this a lot:
 - http://dev.stephendiehl.com/fun/002_parsers.html#parsec
 - http://www.stephendiehl.com/llvm/
 
